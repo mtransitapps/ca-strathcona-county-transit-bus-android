@@ -1,4 +1,4 @@
-# Strathcona County Transit Bus for [MonTransit BETA](https://github.com/mtransitapps/mtransit-for-android)
+# Strathcona County Transit Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-strathcona-county-transit-bus-android/master/pub/hi-res-app-icon.png"/>
 
