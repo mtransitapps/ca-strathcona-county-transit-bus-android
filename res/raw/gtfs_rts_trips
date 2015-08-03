@@ -32,20 +32,14 @@
 45001,0,'Ctr in the Park',450
 45100,0,'Bethel TT',451
 45101,0,'Ordze TC',451
-49000,0,'ABJ Sch',490
-49001,0,'Streambank Ave',490
-49100,0,'Davidson Dr & Darlington Dr',491
-49101,0,'Streambank Ave',491
-49200,0,'Highland Wy / Heritage Dr',492
-49201,0,'Streambank Ave',492
-49300,0,'Oak St / Sherwood Dr',493
-49301,0,'Streambank Ave',493
-49400,0,'Ordze TC',494
-49401,0,'Streambank Ave',494
+49000,0,'Bethel',490
+49100,0,'Bethel',491
+49200,0,'Bethel',492
+49300,0,'Bethel',493
+49400,0,'Bethel',494
 49500,0,'Sherwood Dr / Oak St',495
 49501,0,'Streambank Ave',495
-1044300,0,'AM',10443
-1044301,0,'PM',10443
+1044300,0,'Bethel',10443
 1045100,0,'Bethel TT',10451
 1045101,0,'Village',10451
 2044300,0,'Bethel TT',20443
