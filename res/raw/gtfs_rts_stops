@@ -1,40 +1,40 @@
-1001,'','Sherwood Dr & Granada Blvd',53.529135,-113.295438
-1002,'','Sherwood Dr & Oak St',53.529802,-113.295906
-1004,'','Sherwood Dr & Oak St',53.531027,-113.29541
-1005,'','Granada Blvd & Sherwood Dr',53.527861,-113.294572
-1006,'','Granada Blvd & Peacock Dr',53.528437,-113.288013
-1007,'','Sherwood Dr & Festival Wy',53.527616,-113.295903
-1008,'','Sherwood Dr & Festival Ave',53.525925,-113.295938
-1009,'','Sherwood Dr & Granada Blvd',53.527072,-113.295448
-1010,'','Sherwood Dr & Gatewood Blvd',53.534733,-113.295396
-1011,'','Sherwood Dr & Graham Rd',53.538687,-113.295359
-1012,'','Sherwood Dr & Starling Rd',53.528558,-113.284422
-1013,'','Sherwood Dr & Baseline Rd',53.539524,-113.295864
-1014,'','Sherwood Dr & Main Blvd',53.534906,-113.295892
-1018,'','Georgian Wy & GARC',53.529461,-113.281967
-1019,'','Georgian Way & Greengrove Cr',53.529965,-113.281301
-1024,'','Georgian Wy & Garland Cr',53.531434,-113.278504
-1030,'','Georgian Wy & Groveland Rd',53.533004,-113.27923
-1033,'','Georgian Wy & Greengrove Av',53.534283,-113.280316
-1038,'','Georgian Wy',53.536112,-113.281676
-1042,'','Galloway Dr & Glengarry Cr',53.535233,-113.271877
-1048,'','Galloway Dr & Greystone Cr',53.537162,-113.273124
-1052,'','Georgian Wy',53.535948,-113.282104
-1054,'','Galloway Dr & Greystone Cr',53.538906,-113.278344
-1060,'','Galloway Dr & Glamorgan Dr',53.539774,-113.282603
-1068,'','Galloway Dr & Glenbrook Blvd',53.539773,-113.28577
-1071,'','Georgian Wy & Glenbrook Blvd',53.536656,-113.285796
-1072,'','Georgian Wy & Garnet Av',53.536403,-113.286625
-1077,'','Georgian Wy & Glenridge Rd',53.536222,-113.288807
-1084,'','Georgian Way & Garnet Rd',53.534704,-113.290187
-1085,'','Georgian Wy & Gillingham Cr',53.535476,-113.290366
-1087,'','Gatewood Blvd & Glacier Cr',53.534038,-113.29209
-1088,'','Gatewood Blvd & Galaxy Wy',53.533908,-113.293052
-1090,'','Galloway Dr & Glenbrook Blvd',53.539647,-113.28587
-1094,'','Galloway Dr & Greystone Cr',53.539101,-113.278997
-1096,'','Galloway Dr & Glamorgan Dr',53.537932,-113.276709
-1099,'','Galloway Dr & Glengarry Cr',53.534898,-113.272077
-1107,'','Granada Blvd & Georgian Wy',53.528659,-113.288434
+1001,'','Sherwood Dr & Granada Blvd',53.528987,-113.295422
+1002,'','Sherwood Dr & Oak St',53.529984,-113.295876
+1004,'','Sherwood Dr & Oak St',53.530902,-113.295428
+1005,'','Granada Blvd & Sherwood Dr',53.52787,-113.294578
+1006,'','Granada Blvd & Peacock Dr',53.528448,-113.288045
+1007,'','Sherwood Dr & Festival Wy',53.527619,-113.295876
+1008,'','Sherwood Dr & Festival Ave',53.52636,-113.29588
+1009,'','Sherwood Dr & Granada Blvd',53.527079,-113.295473
+1010,'','Sherwood Dr & Gatewood Blvd',53.534751,-113.295457
+1011,'','Sherwood Dr & Graham Rd',53.538775,-113.295431
+1012,'','Sherwood Dr & Starling Rd',53.52856,-113.284415
+1013,'','Sherwood Dr & Baseline Rd',53.539534,-113.295844
+1014,'','Sherwood Dr & Main Blvd',53.535926,-113.295864
+1018,'','Georgian Wy & GARC',53.529485,-113.281947
+1019,'','Georgian Way & Greengrove Cr',53.529878,-113.281395
+1024,'','Georgian Wy & Garland Cr',53.531442,-113.27852
+1030,'','Georgian Wy & Groveland Rd',53.533008,-113.279247
+1033,'','Georgian Wy & Greengrove Av',53.534155,-113.280208
+1038,'','Georgian Wy',53.536227,-113.282188
+1042,'','Galloway Dr & Glengarry Cr',53.535242,-113.271893
+1048,'','Galloway Dr & Greystone Cr',53.537164,-113.273137
+1052,'','Georgian Wy',53.535902,-113.281728
+1054,'','Galloway Dr & Greystone Cr',53.538902,-113.278366
+1060,'','Galloway Dr & Glamorgan Dr',53.539758,-113.28262
+1068,'','Galloway Dr & Glenbrook Blvd',53.539759,-113.285766
+1071,'','Georgian Wy & Glenbrook Blvd',53.536642,-113.285805
+1072,'','Georgian Wy & Garnet Av',53.536423,-113.28664
+1077,'','Georgian Wy & Glenridge Rd',53.536219,-113.288796
+1084,'','Georgian Way & Garnet Rd',53.534829,-113.290227
+1085,'','Georgian Wy & Gillingham Cr',53.535454,-113.290354
+1087,'','Gatewood Blvd & Glacier Cr',53.534024,-113.291079
+1088,'','Gatewood Blvd & Galaxy Wy',53.533929,-113.29318
+1090,'','Galloway Dr & Glenbrook Blvd',53.539672,-113.28579
+1094,'','Galloway Dr & Greystone Cr',53.539078,-113.278921
+1096,'','Galloway Dr & Glamorgan Dr',53.537939,-113.276665
+1099,'','Galloway Dr & Glengarry Cr',53.534876,-113.272035
+1107,'','Granada Blvd & Georgian Wy',53.528643,-113.288409
 1223,'','106 St & 117 Av',53.567432,-113.503105
 1227,'','106 St & 117 Av',53.568069,-113.502754
 1292,'','100 St & 102A Av',53.543736,-113.49086
@@ -60,11 +60,12 @@
 1964,'','107 St & Jasper Av',53.540394,-113.504852
 1973,'','107 St & 104 Av',53.545959,-113.504623
 1991,'','107 St & 97 Av',53.534696,-113.503991
-2000,'','Festival Ln & Festival Av',53.526623,-113.298237
-2001,'','Festival Ln & Festival Av',53.526681,-113.29837
+2000,'','Festival Ln & Festival Av',53.526769,-113.298042
+2001,'','Festival Ln & Festival Av',53.526765,-113.298273
 2158,'','Baseline Rd & 34 St',53.5413,-113.3945
 2255,'','82 Av & 83 St',53.517971,-113.453629
 2289,'','Ter Rd & 53 St',53.540647,-113.423634
+2329,'','83 St & 86 Av',53.522388,-113.454971
 2393,'','83 St & 86 Av',53.521729,-113.455345
 2410,'','112 St & 84 Av',53.521145,-113.520943
 2437,'','Ter Rd & 53 St',53.540932,-113.421364
@@ -76,260 +77,254 @@
 2641,'','112 St & 86 Av',53.522316,-113.520988
 2722,'','82 Av & 105 St',53.51799,-113.499733
 2752,'','112 St & 82 Av',53.51852,-113.52066
+2816,'','82 Av & 71 St',53.517755,-113.437201
 2844,'','87 Av & 114 St',53.522774,-113.52829
 2848,'','82 Av & 91 St',53.517963,-113.466827
-4000,'','Ordze Transit Ctr',53.513353,-113.330602
-4006,'','Sherwood Dr & Fir St',53.514305,-113.319839
-4030,'','Broadmoor Blvd & Mission Dr',53.53501,-113.319732
-4036,'','Broadmoor Blvd & Main Blvd',53.538359,-113.319853
+4000,'','Ordze Transit Ctr',53.513388,-113.330571
+4006,'','Sherwood Dr & Fir St',53.514342,-113.319868
+4030,'','Broadmoor Blvd & Mission Dr',53.534988,-113.319842
+4036,'','Broadmoor Blvd & Main Blvd',53.538344,-113.319881
 4370,'','Baseline Rd & 17 St',53.541135,-113.367465
 4376,'','Baseline Rd & 30 St',53.5413,-113.3884
 4605,'','Baseline Rd & 34 St',53.5409,-113.3927
 4611,'','Baseline Rd & 30 St',53.541,-113.3872
 4617,'','Baseline Rd & 17 St',53.5408,-113.3682
-4805,'','Broadmoor Blvd & Kaska Rd',53.538926,-113.320317
-4913,'','Wye Rd & Ash St',53.512012,-113.313484
-5005,'','Main Blvd & Mardale Cr',53.534175,-113.296976
-5011,'','Main Blvd & Millers Rd',53.53632,-113.303735
-5023,'','Main Blvd & Marion Dr',53.537226,-113.308831
-5029,'','Main Blvd & Mission St',53.537508,-113.312344
-5035,'','Main Blvd & Malvern Dr',53.537447,-113.31676
-5040,'','Vlg Dr & Vlg Dr',53.516185,-113.322477
-5041,'','Kaska Rd Chippewa Rd',53.539454,-113.322961
-5044,'','Vlg Dr & Vlg Mews',53.517226,-113.322405
-5046,'','Vlg Dr & Keith Rd',53.518888,-113.32362
-5047,'','Chippewa Rd & Athabascan Av',53.5368,-113.3247
-5048,'','Strathcona Dr & Keith Rd',53.521725,-113.325021
-5049,'','Kaska Rd & Seneca Rd',53.539035,-113.328781
-5051,'','Seneca Rd & Athabascan Av',53.536145,-113.329233
-5053,'','Athabascan Av & Chippewa Rd',53.5362,-113.3254
-5054,'','Strathcona Dr & Parker Dr',53.523783,-113.327286
-5065,'','Broadmoor Blvd & Sioux Rd',53.534892,-113.320343
-5071,'','Woodbridge Wy & Wells Pt Ln',53.532295,-113.32363
-5072,'','Haythorne Rd & Haythorne Cr',53.527246,-113.327415
-5077,'','Parker Dr & Woodbridge Wy',53.530635,-113.324036
-5078,'','Haythorne Rd & Parker Dr',53.530185,-113.326055
-5083,'','Haythorne Rd & Parker Dr',53.530207,-113.326267
-5089,'','Haythorne Rd & Haythorne Pl',53.527636,-113.327615
-5090,'','Woodbridge Wy & Parker Dr',53.530897,-113.323422
-5095,'','Strathcona Dr & Haythorne Rd',53.524082,-113.327139
-5096,'','Woodbridge Wy & Wells Pt Ln',53.532836,-113.323278
-5101,'','Strathcona Dr & Parker Dr',53.522835,-113.327626
-5107,'','Strathcona Dr & Moyer Dr',53.521634,-113.325406
-5109,'','Keith Rd & Vlg Dr',53.519345,-113.324957
-5111,'','Vlg Dr & Vlg Ln',53.517326,-113.322589
-5114,'','Chippewa Rd & Athabascan Av',53.5369,-113.3244
-5115,'','Vlg Dr & Vlg Dr',53.515898,-113.322436
-5120,'','Chippewa Rd & Kaska Rd',53.539319,-113.323595
-5126,'','Main Blvd & Malvern Dr',53.537555,-113.3184
-5132,'','Main Blvd & Mission Dr',53.537388,-113.312103
-5138,'','Main Blvd',53.536964,-113.308166
-5144,'','Main Blvd & Menlo Cr',53.536615,-113.306223
-5149,'','Fir St',53.513911,-113.323835
-5150,'','Main Blvd & Millers Rd',53.535654,-113.302222
-5156,'','Main Blvd & Mardale Cr',53.534333,-113.29845
-6006,'','Fir St',53.513742,-113.323789
-6011,'','Oak St & Beauvista Dr',53.530404,-113.300113
-6012,'','Fir St & Willow St',53.513617,-113.317409
-6017,'','Oak St',53.529319,-113.306145
-6018,'','Fir St & Ash St',53.514231,-113.315251
-6023,'','Oak St & Sunset Pl',53.52749,-113.308339
-6024,'','Fir St & Cottonwood Av',53.515649,-113.312948
-6029,'','Oak St & Glenmore Av',53.525416,-113.309251
-6030,'','Fir St & Spruce Av',53.517968,-113.309849
-6035,'','Oak St & Conifer St',53.52206,-113.308397
-6036,'','Fir St & Oak St',53.51942,-113.308086
-6041,'','Fir St & Oak St',53.519638,-113.307859
-6042,'','Oak St & Conifer St',53.522729,-113.308415
-6047,'','Fir St & Spruce Av',53.516996,-113.311088
-6048,'','Oak St & Sherwood Dr',53.524393,-113.308974
-6053,'','Fir St & Cottonwood Av',53.51569,-113.313197
-6054,'','Oak St & Glenmore Av',53.525861,-113.308782
-6059,'','Fir St & Ash St',53.514271,-113.315514
-6060,'','Oak St & Sunset Pl',53.528037,-113.307897
-6065,'','Fir St & Willow St',53.51378,-113.317885
-6066,'','Oak St',53.530071,-113.303511
-6072,'','Oak St & Brentwood Blvd',53.53027,-113.29908
-6079,'','Raven Dr & Brentwood Blvd',53.523285,-113.295096
-6085,'','Heron Rd & Raven Dr',53.523089,-113.290187
-6090,'','Fir St & Pine St',53.519139,-113.30372
-6091,'','Heron Rd & Falcon Dr',53.521112,-113.288659
-6097,'','Alder Av & Alderwood Cr',53.518521,-113.286766
-6102,'','Fir St & Cottonwood Av',53.515596,-113.300793
-6103,'','Alder Av & Glenwood Dr',53.516938,-113.289157
-6108,'','Alder Av & Ivy Cr',53.515321,-113.29778
-6109,'','Alder Av & Greenwood Wy',53.515947,-113.294249
-6115,'','Alder Av & Ivy Cr',53.515026,-113.29864
-6121,'','Fir St & Cottonwood Av',53.516197,-113.301208
-6126,'','Alder Av & Brentwood Blvd',53.515798,-113.294263
-6127,'','Fir St & Pine St',53.518483,-113.303417
-6132,'','Alder Av & Glenwood Dr',53.516883,-113.288787
-6138,'','Alder Av & Alderwood Cr',53.518298,-113.286574
-6144,'','Heron Rd & Falcon Dr',53.521296,-113.288641
-6150,'','Raven Dr & Heron Rd',53.523333,-113.290885
-6156,'','Raven Dr & Brentwood Blvd',53.523469,-113.295053
-7006,'','Glencoe Blvd & Courtenay By',53.533821,-113.269681
-7011,'','Craigavon Dr & Carmel Rd',53.537954,-113.266362
-7012,'','Craigavon Dr & Glencoe Blvd',53.535202,-113.266922
-7017,'','Craigavon Dr & Craigavon Est',53.536791,-113.269454
-7018,'','Craigavon Dr & Craigavon Est',53.537324,-113.269081
-7023,'','Craigavon Dr & Glencoe Blvd',53.535146,-113.267182
-7024,'','Craigavon Dr & Carmel Rd',53.537927,-113.267067
-7029,'','Glencoe Blvd & Courtenay By',53.533958,-113.269915
-7102,'','Baseline Rd & Brower Dr',53.541358,-113.287492
-7104,'','Baseline Rd & Clover Bar Rd',53.541497,-113.266911
-7105,'','Clover Bar Rd & Baseline Rd',53.5396,-113.2635
-7112,'','Highcliff Rd & Highcliff Ct',53.537015,-113.253598
-7118,'','Highland Wy & Highcliff Rd',53.535428,-113.250911
-7119,'','Highland Wy & Heritage Dr',53.5337,-113.2539
-7122,'','Highland Dr & Highland Wy',53.532331,-113.256349
-7124,'','Highland Dr & Heritage Lk Wy',53.53365,-113.261626
-7195,'','Highland Wy & Highcliff Rd',53.539529,-113.256472
-7199,'','Highland Wy & Heritage Dr',53.537939,-113.261419
-7205,'','Meadowview Dr & Greenbriar Cr',53.542875,-113.258294
-7211,'','Meadowview Dr & Larkspur Pl',53.544503,-113.260113
-7229,'','Primrose Blvd & Clover Bar Rd',53.546299,-113.261792
-7272,'','Primrose Blvd & Clover Bar Rd',53.546084,-113.261486
-7290,'','Meadowview Dr & Larkspur Pl',53.544552,-113.260295
-7296,'','Meadowview Dr & Greenbriar Cr',53.542676,-113.258748
-7306,'','Davenport Dr & Davenport Pl',53.552222,-113.258766
-7308,'','Clarkdale Dr & Crocus Cr',53.551767,-113.251791
-7310,'','Clarkdale Dr & Orchid Cr',53.549433,-113.251608
-7312,'','Meadowview Dr & Clarkdale Dr',53.547552,-113.253517
-7313,'','Davenport Dr & Davenport Pl',53.552347,-113.258943
-7315,'','Clarkdale Dr & Crocus Cr',53.552028,-113.251861
-7317,'','Clarkdale Dr & Orchid Cr',53.548835,-113.252234
-7318,'','Meadowview Dr & Aster Cr',53.54535,-113.253018
-7319,'','Meadowview Dr & Clarkdale Dr',53.547635,-113.253331
-7321,'','Meadowview Dr & Aster Cr',53.545663,-113.252843
-7323,'','Meadowview Dr & Blueberry Cr',53.543532,-113.252681
-7324,'','Meadowview Dr & Blueberry Cr',53.543689,-113.252821
-7330,'','Meadowview Dr & Aster Cr',53.542922,-113.256004
-7406,'','Davidson Dr & Darlington Dr',53.551427,-113.267945
-7431,'','Davidson Dr & Darlington Dr',53.551855,-113.268076
-7432,'','Davidson Dr & Davenport Dr',53.553592,-113.264432
-7433,'','Davidson Dr & Dalton Wy',53.553669,-113.264669
-7435,'','Dawson Dr & Davenport Dr',53.554909,-113.264769
-7436,'','Davenport Dr & Dawson Dr',53.555254,-113.264379
-7437,'','Dawson Dr & Donnely Terr',53.5551,-113.2713
-7438,'','Dawson Dr & Donnelly Terr',53.555334,-113.271074
-7506,'','Clover Bar Rd & Summerwood Blvd',53.561025,-113.273203
-7508,'','Summerwood Blvd & Clover Bar Rd',53.560158,-113.273115
-7509,'','Summerwood Blvd & Clover Bar Rd',53.560358,-113.272787
-7510,'','Summerwood Blvd & Summerland Wy',53.559715,-113.267572
-7511,'','Summerwood Blvd & Summerland Wy',53.559867,-113.270248
-7512,'','Summerwood Blvd & Summercourt Rd',53.559645,-113.262468
-7513,'','Summerwood Blvd & Summercourt Rd',53.559801,-113.263179
-7514,'','Summerland Dr & Suncrest Ln',53.558314,-113.258559
-7515,'','Summerland Dr & Sunview Dr',53.5586,-113.2583
-7516,'','Lakeland Dr & Summerwood Dr',53.555869,-113.263156
-7520,'','Summerland Dr & Sandstone Blvd',53.560715,-113.257232
-7522,'','Summerland Dr & Suncreek Dr',53.560478,-113.25199
-7524,'','Summerland Dr & Sunview Gt',53.558418,-113.251912
-7526,'','Summerland Dr & Lakeland Dr',53.555845,-113.253022
-7600,'','Crimson Dr & Clover Bar Rd',53.552826,-113.274872
-7601,'','Crimson Dr & Clover Bar Rd',53.552921,-113.275039
-7602,'','Crimson Dr & Carlyle Cr',53.55191,-113.277818
-7603,'','Crimson Dr & Carlyle Cr',53.551857,-113.278396
-7604,'','Jim Common Dr & Cache Pl',53.551876,-113.282761
-7605,'','Jim Common Dr & Cache Pl',53.551934,-113.281577
-7700,'','Carson Dr & Christina Wy',53.545394,-113.267077
-7701,'','Carson Dr & Carson Ct',53.545643,-113.266762
-7702,'','Carson Dr & Christian Wy',53.544612,-113.271095
-7703,'','Carson Dr & Cavan Rd',53.544765,-113.271682
-7704,'','Chatwin Rd & Chestermere Cr',53.54415,-113.275328
-7705,'','Chatwin Rd & Chestermere Cr',53.544272,-113.275419
-7706,'','Jim Common Dr & Crimson Dr',53.544786,-113.280187
-7707,'','Jim Common Dr & Crimson Dr',53.544904,-113.280303
-7807,'','Clover Bar Rd & Jubilee Dr',53.565158,-113.270814
-7857,'','Aspen Tr & Eton Blvd',53.561411,-113.277154
-7862,'','Clover Bar Rd & Appleton Wy',53.55842,-113.2751
-7870,'','Lakeland Dr & Aspen Tr',53.556676,-113.281934
-7872,'','Lakeland Dr & Aspen Tr',53.556945,-113.283135
-7900,'','Emerald Dr & Eton Blvd',53.566913,-113.27431
-7901,'','Emerald Dr & Ellesmere Ln',53.566796,-113.279044
-7902,'','Emerald Dr & Ellesmere Ln',53.567044,-113.279569
-7903,'','Emerald Dr',53.567297,-113.283802
-7904,'','Emerald Dr',53.567401,-113.283565
-7910,'','Eton Blvd & Emerald Dr',53.5661,-113.2772
-7914,'','Eton Blvd & Essex Wy',53.563318,-113.27728
-7920,'','Emerald Dr & ABJ',53.567386,-113.289862
-7921,'','Emerald Dr & ABJ',53.567348,-113.289333
+4805,'','Broadmoor Blvd & Kaska Rd',53.538954,-113.320302
+4913,'','Wye Rd & Ash St',53.511951,-113.313322
+5005,'','Main Blvd & Mardale Cr',53.534174,-113.297044
+5011,'','Main Blvd & Millers Rd',53.536278,-113.303805
+5023,'','Main Blvd & Marion Dr',53.537204,-113.308873
+5029,'','Main Blvd & Mission St',53.53748,-113.312377
+5035,'','Main Blvd & Malvern Dr',53.537346,-113.316717
+5040,'','Vlg Dr & Vlg Dr',53.516147,-113.322511
+5041,'','Kaska Rd Chippewa Rd',53.539437,-113.323043
+5044,'','Vlg Dr & Vlg Mews',53.517664,-113.322289
+5046,'','Vlg Dr & Keith Rd',53.518917,-113.323932
+5047,'','Chippewa Rd & Athabascan Av',53.536873,-113.324686
+5048,'','Strathcona Dr & Keith Rd',53.521684,-113.325032
+5049,'','Kaska Rd & Seneca Rd',53.539012,-113.328777
+5051,'','Seneca Rd & Athabascan Av',53.536144,-113.329221
+5053,'','Athabascan Av & Chippewa Rd',53.53622,-113.325469
+5054,'','Strathcona Dr & Parker Dr',53.523844,-113.327237
+5065,'','Broadmoor Blvd & Sioux Rd',53.534893,-113.320258
+5071,'','Woodbridge Wy & Wells Pt Ln',53.532277,-113.323576
+5072,'','Haythorne Rd & Haythorne Cr',53.527263,-113.327434
+5077,'','Parker Dr & Woodbridge Wy',53.530629,-113.324038
+5078,'','Haythorne Rd & Parker Dr',53.530187,-113.326093
+5083,'','Haythorne Rd & Parker Dr',53.530184,-113.326254
+5089,'','Haythorne Rd & Haythorne Pl',53.527623,-113.327594
+5090,'','Woodbridge Wy & Parker Dr',53.530897,-113.323442
+5095,'','Strathcona Dr & Haythorne Rd',53.524059,-113.327139
+5096,'','Woodbridge Wy & Wells Pt Ln',53.532834,-113.323295
+5101,'','Strathcona Dr & Parker Dr',53.522835,-113.327574
+5107,'','Strathcona Dr & Moyer Dr',53.521647,-113.325405
+5109,'','Keith Rd & Vlg Dr',53.519325,-113.32494
+5111,'','Vlg Dr & Vlg Ln',53.51733,-113.32257
+5114,'','Chippewa Rd & Athabascan Av',53.537006,-113.324488
+5115,'','Vlg Dr & Vlg Dr',53.515912,-113.322412
+5120,'','Chippewa Rd & Kaska Rd',53.539323,-113.323485
+5126,'','Main Blvd & Malvern Dr',53.537595,-113.318374
+5132,'','Main Blvd & Mission Dr',53.537441,-113.312094
+5138,'','Main Blvd',53.537009,-113.308128
+5144,'','Main Blvd & Menlo Cr',53.536647,-113.306172
+5149,'','Fir St',53.513888,-113.323815
+5150,'','Main Blvd & Millers Rd',53.535528,-113.30184
+5156,'','Main Blvd & Mardale Cr',53.53437,-113.29843
+6006,'','Fir St',53.513757,-113.32379
+6011,'','Oak St & Beauvista Dr',53.530402,-113.300128
+6012,'','Fir St & Willow St',53.51365,-113.317499
+6017,'','Oak St',53.529304,-113.306129
+6018,'','Fir St & Ash St',53.514237,-113.31532
+6023,'','Oak St & Sunset Pl',53.52748,-113.308324
+6024,'','Fir St & Cottonwood Av',53.515649,-113.313028
+6029,'','Oak St & Glenmore Av',53.525408,-113.309216
+6030,'','Fir St & Spruce Av',53.517965,-113.309915
+6035,'','Oak St & Conifer St',53.522068,-113.308387
+6036,'','Fir St & Oak St',53.51942,-113.308139
+6041,'','Fir St & Oak St',53.519611,-113.307866
+6042,'','Oak St & Conifer St',53.522723,-113.308479
+6047,'','Fir St & Spruce Av',53.516985,-113.311092
+6048,'','Oak St & Sherwood Dr',53.524383,-113.309013
+6053,'','Fir St & Cottonwood Av',53.515671,-113.313216
+6054,'','Oak St & Glenmore Av',53.525954,-113.308772
+6059,'','Fir St & Ash St',53.514241,-113.315539
+6060,'','Oak St & Sunset Pl',53.528047,-113.307928
+6065,'','Fir St & Willow St',53.513757,-113.317888
+6066,'','Oak St',53.530099,-113.303517
+6072,'','Oak St & Brentwood Blvd',53.530293,-113.299039
+6079,'','Raven Dr & Brentwood Blvd',53.523217,-113.293911
+6085,'','Heron Rd & Raven Dr',53.523083,-113.290166
+6090,'','Fir St & Pine St',53.519081,-113.303764
+6091,'','Heron Rd & Falcon Dr',53.521068,-113.28857
+6097,'','Alder Av & Alderwood Cr',53.518516,-113.286739
+6102,'','Fir St & Cottonwood Av',53.515616,-113.30079
+6103,'','Alder Av & Glenwood Dr',53.516905,-113.289168
+6108,'','Alder Av & Ivy Cr',53.515311,-113.297836
+6109,'','Alder Av & Greenwood Wy',53.515924,-113.294307
+6115,'','Alder Av & Ivy Cr',53.515029,-113.298643
+6121,'','Fir St & Cottonwood Av',53.516371,-113.301622
+6126,'','Alder Av & Brentwood Blvd',53.515826,-113.294223
+6127,'','Fir St & Pine St',53.518496,-113.303251
+6132,'','Alder Av & Glenwood Dr',53.51698,-113.288635
+6138,'','Alder Av & Alderwood Cr',53.518527,-113.286584
+6144,'','Heron Rd & Falcon Dr',53.521372,-113.288778
+6150,'','Raven Dr & Heron Rd',53.523292,-113.290939
+6156,'','Raven Dr & Brentwood Blvd',53.523401,-113.295225
+7006,'','Glencoe Blvd & Courtenay By',53.533833,-113.269664
+7011,'','Craigavon Dr & Carmel Rd',53.537946,-113.266387
+7012,'','Craigavon Dr & Glencoe Blvd',53.535193,-113.26692
+7017,'','Craigavon Dr & Craigavon Est',53.536767,-113.26945
+7018,'','Craigavon Dr & Craigavon Est',53.537327,-113.269089
+7023,'','Craigavon Dr & Glencoe Blvd',53.535141,-113.267169
+7024,'','Craigavon Dr & Carmel Rd',53.53792,-113.266999
+7029,'','Glencoe Blvd & Courtenay By',53.533928,-113.269923
+7102,'','Baseline Rd & Brower Dr',53.541309,-113.287561
+7104,'','Baseline Rd & Clover Bar Rd',53.541362,-113.266138
+7105,'','Clover Bar Rd & Baseline Rd',53.539111,-113.263498
+7106,'','Clover Bar Rd & Heritage Dr',53.538498,-113.263137
+7112,'','Highcliff Rd & Highcliff Ct',53.537014,-113.253543
+7118,'','Highland Wy & Highcliff Rd',53.53543,-113.250891
+7119,'','Highland Wy & Heritage Dr',53.533654,-113.254148
+7122,'','Highland Dr & Highland Wy',53.532325,-113.256364
+7124,'','Highland Dr & Heritage Lk Wy',53.533648,-113.261665
+7195,'','Highland Wy & Highcliff Rd',53.539535,-113.256445
+7199,'','Highland Wy & Heritage Dr',53.537956,-113.261432
+7272,'','Primrose Blvd & Clover Bar Rd',53.546114,-113.261494
+7290,'','Meadowview Dr & Larkspur Pl',53.544549,-113.260286
+7296,'','Meadowview Dr & Greenbriar Cr',53.542679,-113.258727
+7313,'','Davenport Dr & Davenport Pl',53.552337,-113.258963
+7315,'','Clarkdale Dr & Crocus Cr',53.552033,-113.251863
+7317,'','Clarkdale Dr & Orchid Cr',53.548885,-113.252167
+7319,'','Meadowview Dr & Clarkdale Dr',53.54764,-113.253364
+7321,'','Meadowview Dr & Aster Cr',53.545456,-113.252821
+7323,'','Meadowview Dr & Blueberry Cr',53.543715,-113.25258
+7431,'','Davidson Dr & Darlington Dr',53.551947,-113.267809
+7433,'','Davidson Dr & Dalton Wy',53.553647,-113.264667
+7435,'','Dawson Dr & Davenport Dr',53.555064,-113.265149
+7436,'','Davenport Dr & Dawson Dr',53.555242,-113.264408
+7437,'','Dawson Dr & Donnely Terr',53.555139,-113.271391
+7438,'','Dawson Dr & Donnelly Terr',53.55531,-113.271065
+7506,'','Clover Bar Rd & Summerwood Blvd',53.561166,-113.273104
+7508,'','Summerwood Blvd & Clover Bar Rd',53.559946,-113.27217
+7509,'','Summerwood Blvd & Clover Bar Rd',53.560408,-113.272791
+7510,'','Summerwood Blvd & Summerland Wy',53.559722,-113.267566
+7511,'','Summerwood Blvd & Summerland Wy',53.55983,-113.26985
+7512,'','Summerwood Blvd & Summercourt Rd',53.559642,-113.262438
+7513,'','Summerwood Blvd & Summercourt Rd',53.559345,-113.260743
+7514,'','Summerland Dr & Suncrest Ln',53.55754,-113.258579
+7515,'','Summerland Dr & Sunview Dr',53.558252,-113.258418
+7516,'','Lakeland Dr & Summerwood Dr',53.555863,-113.263169
+7520,'','Summerland Dr & Sandstone Blvd',53.560729,-113.257571
+7522,'','Summerland Dr & Suncreek Dr',53.560289,-113.25174
+7524,'','Summerland Dr & Sunview Gt',53.558583,-113.251901
+7526,'','Summerland Dr & Lakeland Dr',53.556318,-113.252955
+7600,'','Crimson Dr & Clover Bar Rd',53.552846,-113.27492
+7601,'','Crimson Dr & Clover Bar Rd',53.552918,-113.275031
+7602,'','Crimson Dr & Carlyle Cr',53.551919,-113.277799
+7603,'','Crimson Dr & Carlyle Cr',53.55183,-113.278382
+7604,'','Jim Common Dr & Cache Pl',53.551903,-113.282786
+7605,'','Jim Common Dr & Cache Pl',53.551918,-113.281599
+7700,'','Carson Dr & Christina Wy',53.545406,-113.267032
+7701,'','Carson Dr & Carson Ct',53.545639,-113.266722
+7702,'','Carson Dr & Christian Wy',53.544636,-113.271085
+7703,'','Carson Dr & Cavan Rd',53.544753,-113.271689
+7704,'','Chatwin Rd & Chestermere Cr',53.544161,-113.275304
+7705,'','Chatwin Rd & Chestermere Cr',53.54426,-113.275417
+7706,'','Jim Common Dr & Crimson Dr',53.544791,-113.280181
+7707,'','Jim Common Dr & Crimson Dr',53.544891,-113.280306
+7807,'','Clover Bar Rd & Jubilee Dr',53.565155,-113.270842
+7857,'','Aspen Tr & Eton Blvd',53.561418,-113.277114
+7862,'','Clover Bar Rd & Appleton Wy',53.558166,-113.275301
+7870,'','Lakeland Dr & Aspen Tr',53.556871,-113.281628
+7872,'','Lakeland Dr & Aspen Tr',53.556702,-113.28391
+7900,'','Emerald Dr & Clover Bar Rd',53.566903,-113.274326
+7901,'','Emerald Dr & Eton Blvd',53.566814,-113.278657
+7902,'','Emerald Dr & Eton Blvd',53.567048,-113.279308
+7903,'','Emerald Dr & Ellesmere Ln',53.567256,-113.283387
+7904,'','Emerald Dr & Ellesmere Ln',53.567423,-113.283317
+7910,'','Eton Blvd & Emerald Dr',53.566182,-113.277252
+7914,'','Eton Blvd & Essex Wy',53.563309,-113.27728
+7920,'','Emerald Dr & ABJ',53.567596,-113.289216
+7921,'','Emerald Dr & ABJ',53.567599,-113.287668
 8000,'','Bethel Transit Terminal',53.543142,-113.30403
-8009,'','Broadway Blvd & Broadview Dr',53.543875,-113.313402
-8010,'','Broadway Blvd @ Robin Hood',53.543393,-113.31121
-8011,'','Broadway Blvd & Broadview Dr',53.543983,-113.31494
-8012,'','Broadway Blvd & Broadmoor Blvd',53.544951,-113.318867
-8013,'','Broadview Rd & Broadmoor Blvd',53.5448,-113.318867
-8101,'','Bethel Dr & Broadview Rd',53.545101,-113.303763
-8105,'','Cranford Way',53.543303,-113.291832
-8109,'','Bethel Dr & Bothwell Dr',53.54631,-113.299295
-8110,'','Bethel Dr & Bothwell Dr',53.546449,-113.299383
-8111,'','Sherwood Dr & Cranford Wy',53.543035,-113.295398
-8112,'','Sherwood Dr & Jim Common Dr',53.548244,-113.295422
-8113,'','Jim Common Dr & Crystal Ln',53.546701,-113.292725
-8114,'','Jim Common Dr & Crystal Ln',53.546844,-113.294388
-8115,'','Jim Common Dr & Charlton Wy',53.548384,-113.288919
-8116,'','Jim Common Dr & Jim Common Dr',53.54669,-113.290753
-8117,'','Jim Common Dr & Charlton Cr',53.546882,-113.289456
-8118,'','Jim Common Dr & Chancery Wy',53.549162,-113.289148
-8123,'','Jim Common Dr & Cranford Dr',53.545549,-113.28814
-8124,'','Jim Common Dr & Cranford Dr',53.545358,-113.288319
-8135,'','Jim Common Dr & Charlton Ct',53.544459,-113.283173
-8138,'','Jim Common Dr & Charlton Ct',53.544606,-113.28415
-8304,'','Sherwood Dr & Cimmaron Wy',53.5508,-113.2954
-8305,'','Sherwood Dr & Bison Wy',53.549939,-113.295949
-8317,'','Jim Common Dr & Canyon Dr',53.550251,-113.288312
-8319,'','Jim Common Dr & Catalina Dr',53.550937,-113.286928
-8320,'','Jim Common Dr & Canyon Dr',53.550528,-113.288131
-8322,'','Jim Common Dr & Catalina Dr',53.551541,-113.286046
-8800,'','Premier Wy & Millennium Pl',53.5575,-113.3139
-8801,'','Premier Wy & Millennium Pl',53.5574,-113.3135
-8802,'','Premier Wy & Portage Ln',53.561641,-113.316338
-8803,'','Prairie Dr & Premier Wy',53.5597,-113.3171
-8804,'','Premier Wy & Pembina Rd',53.564251,-113.316308
-8806,'','Premier Wy & Prairie Dr',53.5601,-113.3163
-8810,'','Strathmoor Dr & Broadmoor Blvd',53.565942,-113.3225
-8811,'','Strathmoor Dr',53.56594,-113.326
-8812,'','Strathmoor Dr',53.564371,-113.326277
-8814,'','Strathmoor Wy',53.562846,-113.32536
-8816,'','Streambank Av',53.560197,-113.325245
-8848,'','Sherwood Dr & Palisades Av',53.556124,-113.295192
-8849,'','Sherwood Dr & Palisades Av',53.555468,-113.295918
-8850,'','Lakeland Dr & Sherwood Dr',53.5547,-113.293
-8851,'','Lakeland Dr & Sherwood Dr',53.553889,-113.29507
-9005,'','Granada Blvd',53.526959,-113.277515
-9015,'','Nottingham Blvd & Nottingham Rd',53.523565,-113.274694
-9016,'','Nottingham Blvd & Nottingham Rd',53.522315,-113.279482
-9017,'','Nottingham Blvd & Norwich Cr',53.519037,-113.281109
-9023,'','Nottingham Blvd & Norland Cl',53.515987,-113.280064
-9025,'','Nottingham Blvd & Nottingham Cv',53.514918,-113.275066
-9029,'','Nottingham Blvd & Clover Bar Rd',53.515889,-113.272376
-9048,'','Granada Blvd',53.527505,-113.277976
-9115,'','Ritchie Wy & Regency Dr',53.5159,-113.2679
-9117,'','Regency Dr & Ritchie Wy',53.515572,-113.263704
-9150,'','Clover Bar Rd & Foxhaven Dr',53.5296,-113.2639
-9157,'','Ritchie Wy & Regency Dr',53.515818,-113.268813
-9159,'','Regency Dr & Ritchie Wy',53.515855,-113.265286
-9160,'','Clover Bar Rd & Foxhaven Dr',53.528347,-113.262419
-9180,'','Clover Bar Rd & Forrest Dr',53.521974,-113.267563
-9184,'','Granada Blvd & Colwill Blvd',53.52329,-113.270337
-9206,'','Regency Dr & Ridgemont Wy',53.515485,-113.258337
-9219,'','Regency Dr & Ridgebrook Rd',53.515826,-113.252251
-9222,'','Regency Dr & Ridgerock Pt',53.515487,-113.25361
-9223,'','Regency Dr & Regal Wy',53.515615,-113.258391
-9224,'','Regency Dr & Ridgeland Cr',53.517477,-113.252289
-9225,'','Regency Dr & Ridgeland Cr',53.518283,-113.253142
-9228,'','Foxboro Dr & Regency Dr',53.522331,-113.253867
-9229,'','Foxboro Dr & Regency Dr',53.522266,-113.253698
-9233,'','Foxboro Dr & Foxhaven Wy',53.525738,-113.252381
-9234,'','Foxboro Dr @ Foxboro Rd',53.524878,-113.252572
-9235,'','Foxhaven Dr & Foxhaven Ln',53.527112,-113.252387
-9236,'','Foxhaven Dr & Foxhaven Ln',53.527253,-113.252576
-9237,'','Foxhaven Dr & Foxhaven Cr',53.528795,-113.256537
-9238,'','Foxhaven Dr & Foxhaven Cr',53.52845,-113.255385
-9239,'','Foxhaven Dr & Foxhaven Ct',53.528662,-113.259454
-9240,'','Foxhaven Dr & Foxhaven Pl',53.52863,-113.259077
-9352,'','Wye Rd & Clover Bar Rd',53.512246,-113.274459
-9353,'','Clover Bar Rd & Wye Rd',53.513141,-113.270249
-9461,'','Wye Rd & Est Dr',53.511986,-113.288558
+8004,'','Baseline Rd & Broadview Dr',53.541389,-113.31595
+8005,'','Baseline Rd & Broadmoor Blvd',53.541028,-113.318455
+8009,'','Broadway Blvd & Broadview Dr',53.543832,-113.313394
+8010,'','Broadway Blvd @ Robin Hood',53.543404,-113.311287
+8011,'','Broadway Blvd & Broadview Dr',53.543971,-113.314937
+8012,'','Broadway Blvd & Broadmoor Blvd',53.544941,-113.318883
+8013,'','Broadview Rd & Broadmoor Blvd',53.544806,-113.318946
+8101,'','Bethel Dr & Broadview Rd',53.545182,-113.303946
+8105,'','Cranford Way',53.543298,-113.291823
+8109,'','Bethel Dr & Bothwell Dr',53.546322,-113.299303
+8110,'','Bethel Dr & Bothwell Dr',53.546368,-113.299738
+8111,'','Sherwood Dr & Cranford Wy',53.543045,-113.295418
+8112,'','Sherwood Dr & Jim Common Dr',53.548219,-113.2955
+8113,'','Jim Common Dr & Crystal Ln',53.546706,-113.292703
+8114,'','Jim Common Dr & Crystal Ln',53.546837,-113.294555
+8115,'','Jim Common Dr & Charlton Wy',53.548343,-113.288928
+8116,'','Jim Common Dr & Jim Common Dr',53.546692,-113.290794
+8117,'','Jim Common Dr & Charlton Cr',53.546899,-113.289454
+8118,'','Jim Common Dr & Chancery Wy',53.549142,-113.289131
+8123,'','Jim Common Dr & Cranford Dr',53.545438,-113.288083
+8124,'','Jim Common Dr & Cranford Dr',53.545014,-113.287487
+8135,'','Jim Common Dr & Charlton Ct',53.544477,-113.283199
+8138,'','Jim Common Dr & Charlton Ct',53.544598,-113.284298
+8304,'','Sherwood Dr & Cimmaron Wy',53.551195,-113.295547
+8305,'','Sherwood Dr & Bison Wy',53.549934,-113.295949
+8317,'','Jim Common Dr & Canyon Dr',53.550238,-113.288328
+8319,'','Jim Common Dr & Catalina Dr',53.551141,-113.286534
+8320,'','Jim Common Dr & Canyon Dr',53.550518,-113.288123
+8322,'','Jim Common Dr & Catalina Dr',53.551555,-113.28599
+8800,'','Premier Wy & Millennium Pl',53.557508,-113.313966
+8801,'','Premier Wy & Millennium Pl',53.557434,-113.313577
+8802,'','Premier Wy & Portage Ln',53.561616,-113.316354
+8803,'','Prairie Dr & Premier Wy',53.559702,-113.317142
+8804,'','Premier Wy & Pembina Rd',53.564268,-113.316341
+8806,'','Premier Wy & Prairie Dr',53.560182,-113.316356
+8810,'','Strathmoor Dr & Broadmoor Blvd',53.565931,-113.322522
+8811,'','Strathmoor Dr',53.565967,-113.325448
+8812,'','Strathmoor Dr',53.564494,-113.32625
+8814,'','Strathmoor Wy',53.562854,-113.324499
+8816,'','Streambank Av',53.560177,-113.325306
+8846,'','Sherwood Dr & Abbey Rd',53.560104,-113.295076
+8847,'','Sherwood Dr & Abbey Rd',53.559134,-113.295446
+8848,'','Sherwood Dr & Palisades Av',53.556327,-113.295266
+8849,'','Sherwood Dr & Palisades Av',53.555284,-113.295981
+8850,'','Lakeland Dr & Sherwood Dr',53.554646,-113.293639
+8851,'','Lakeland Dr & Sherwood Dr',53.554198,-113.294296
+9005,'','Granada Blvd',53.526904,-113.277274
+9015,'','Nottingham Blvd & Nottingham Rd',53.523547,-113.274683
+9016,'','Nottingham Blvd & Nottingham Rd',53.522298,-113.279489
+9017,'','Nottingham Blvd & Norwich Cr',53.519038,-113.281105
+9023,'','Nottingham Blvd & Norland Cl',53.515972,-113.280042
+9025,'','Nottingham Blvd & Nottingham Cv',53.514893,-113.275194
+9029,'','Nottingham Blvd & Clover Bar Rd',53.515886,-113.272367
+9048,'','Granada Blvd',53.527746,-113.278592
+9115,'','Ritchie Wy & Regency Dr',53.515952,-113.267923
+9117,'','Regency Dr & Ritchie Wy',53.515562,-113.263727
+9150,'','Clover Bar Rd & Foxhaven Dr',53.529643,-113.263891
+9157,'','Ritchie Wy & Regency Dr',53.515855,-113.267587
+9159,'','Regency Dr & Ritchie Wy',53.515849,-113.265251
+9160,'','Clover Bar Rd & Foxhaven Dr',53.528352,-113.262504
+9180,'','Granada Blvd & Forrest Dr',53.522031,-113.267824
+9184,'','Granada Blvd & Colwill Blvd',53.523249,-113.27038
+9206,'','Regency Dr & Ridgemont Wy',53.51549,-113.25831
+9219,'','Regency Dr & Ridgebrook Rd',53.5158,-113.252312
+9222,'','Regency Dr & Ridgerock Pt',53.515489,-113.253565
+9223,'','Regency Dr & Regal Wy',53.515611,-113.25842
+9224,'','Regency Dr & Ridgeland Cr',53.517477,-113.252279
+9225,'','Regency Dr & Ridgeland Cr',53.518278,-113.253155
+9228,'','Foxboro Dr & Regency Dr',53.522323,-113.253884
+9229,'','Foxboro Dr & Regency Dr',53.522277,-113.253664
+9233,'','Foxboro Dr & Foxhaven Wy',53.525747,-113.252386
+9234,'','Foxboro Dr @ Foxboro Rd',53.524842,-113.252551
+9235,'','Foxhaven Dr & Foxhaven Ln',53.527136,-113.2524
+9236,'','Foxhaven Dr & Foxhaven Ln',53.527201,-113.252572
+9237,'','Foxhaven Dr & Foxhaven Cr',53.52878,-113.25659
+9238,'','Foxhaven Dr & Foxhaven Cr',53.528475,-113.255432
+9239,'','Foxhaven Dr & Foxhaven Ct',53.528615,-113.259575
+9240,'','Foxhaven Dr & Foxhaven Pl',53.528635,-113.259082
+9352,'','Wye Rd & Clover Bar Rd',53.512237,-113.274446
+9353,'','Clover Bar Rd & Wye Rd',53.513153,-113.270317
+9461,'','Wye Rd & Est Dr',53.511985,-113.288522
