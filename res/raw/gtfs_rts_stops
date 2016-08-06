@@ -152,7 +152,7 @@
 6065,'','Fir St & Willow St',53.513757,-113.317888
 6066,'','Oak St',53.530099,-113.303517
 6072,'','Oak St & Brentwood Blvd',53.530293,-113.299039
-6079,'','Raven Dr & Brentwood Blvd',53.523217,-113.293911
+6079,'','Raven Dr & Crane Rd',53.523217,-113.293911
 6085,'','Heron Rd & Raven Dr',53.523083,-113.290166
 6090,'','Fir St & Pine St',53.519081,-113.303764
 6091,'','Heron Rd & Falcon Dr',53.521068,-113.28857
@@ -189,21 +189,33 @@
 7124,'','Highland Dr & Heritage Lk Wy',53.533648,-113.261665
 7195,'','Highland Wy & Highcliff Rd',53.539535,-113.256445
 7199,'','Highland Wy & Heritage Dr',53.537956,-113.261432
+7205,'','Meadowview Dr & Greenbriar Cr',53.542871,-113.258286
+7211,'','Meadowview Dr & Larkspur Pl',53.544503,-113.260113
+7229,'','Primrose Blvd & Clover Bar Rd',53.546294,-113.261736
 7272,'','Primrose Blvd & Clover Bar Rd',53.546114,-113.261494
 7290,'','Meadowview Dr & Larkspur Pl',53.544549,-113.260286
 7296,'','Meadowview Dr & Greenbriar Cr',53.542679,-113.258727
+7306,'','Davenport Dr & Davenport Pl',53.552247,-113.258749
+7308,'','Clarkdale Dr & Crocus Cr',53.551766,-113.251772
+7310,'','Clarkdale Dr & Orchid Cr',53.549422,-113.251615
+7312,'','Meadowview Dr & Clarkdale Dr',53.547561,-113.253512
 7313,'','Davenport Dr & Davenport Pl',53.552337,-113.258963
 7315,'','Clarkdale Dr & Crocus Cr',53.552033,-113.251863
 7317,'','Clarkdale Dr & Orchid Cr',53.548885,-113.252167
+7318,'','Meadowview Dr & Aster Cr',53.545355,-113.252999
 7319,'','Meadowview Dr & Clarkdale Dr',53.54764,-113.253364
 7321,'','Meadowview Dr & Aster Cr',53.545456,-113.252821
 7323,'','Meadowview Dr & Blueberry Cr',53.543715,-113.25258
+7324,'','Meadowview Dr & Blueberry Cr',53.543687,-113.252806
+7330,'','Meadowview Dr & Aster Cr',53.542906,-113.255971
+7406,'','Davidson Dr & Darlington Dr',53.551807,-113.267736
 7431,'','Davidson Dr & Darlington Dr',53.551947,-113.267809
+7432,'','Davidson Dr & Davenport Dr',53.553592,-113.264422
 7433,'','Davidson Dr & Dalton Wy',53.553647,-113.264667
 7435,'','Dawson Dr & Davenport Dr',53.555064,-113.265149
 7436,'','Davenport Dr & Dawson Dr',53.555242,-113.264408
 7437,'','Dawson Dr & Donnely Terr',53.555139,-113.271391
-7438,'','Dawson Dr & Donnelly Terr',53.55531,-113.271065
+7438,'','Dawson Dr & Donnely Terr',53.55531,-113.271065
 7506,'','Clover Bar Rd & Summerwood Blvd',53.561166,-113.273104
 7508,'','Summerwood Blvd & Clover Bar Rd',53.559946,-113.27217
 7509,'','Summerwood Blvd & Clover Bar Rd',53.560408,-113.272791
@@ -301,7 +313,7 @@
 9025,'','Nottingham Blvd & Nottingham Cv',53.514893,-113.275194
 9029,'','Nottingham Blvd & Clover Bar Rd',53.515886,-113.272367
 9048,'','Granada Blvd',53.527746,-113.278592
-9115,'','Ritchie Wy & Regency Dr',53.515952,-113.267923
+9115,'','Ritchie Wy & Rainbow Cr',53.515952,-113.267923
 9117,'','Regency Dr & Ritchie Wy',53.515562,-113.263727
 9150,'','Clover Bar Rd & Foxhaven Dr',53.529643,-113.263891
 9157,'','Ritchie Wy & Regency Dr',53.515855,-113.267587
