@@ -32,14 +32,20 @@
 45001,0,'Ctr in the Park',450
 45100,0,'Bethel TT',451
 45101,0,'Ordze TC',451
-49000,0,'Millennium Pl/Emerald Hls',490
-49100,0,'Summerwood',491
-49200,0,'Regency',492
-49300,0,'Brentwood',493
-49400,0,'Ordze TC',494
+49000,0,'Bethel TT',490
+49001,0,'Millennium Pl',490
+49100,0,'Bethel TT',491
+49101,0,'Summerwood',491
+49200,0,'Bethel TT',492
+49201,0,'Regency',492
+49300,0,'Bethel TT',493
+49301,0,'Brentwood',493
+49400,0,'Bethel TT',494
+49401,0,'Ordze TC',494
 1043301,0,'ABJ Sch',10433
 1043300,0,'Charlton Hts',10433
-1044100,0,'Regency',10441
+1044100,0,'Bethel TT',10441
+1044101,0,'Regency',10441
 1044300,0,'Bethel TT',10443
 1044301,0,'Brentwood',10443
 1045100,0,'Bethel TT',10451
