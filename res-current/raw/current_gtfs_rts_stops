@@ -63,9 +63,7 @@
 1991,'','107 St & 97 Av',53.534696,-113.503991
 2000,'','Festival Ln & Festival Av',53.526769,-113.298042
 2001,'','Festival Ln & Festival Av',53.526765,-113.298273
-2131,'','82 Av & 91 St',53.518131,-113.467964
 2158,'','Baseline Rd & 34 St',53.5413,-113.3945
-2159,'','83 St & 82 Ave',53.518156,-113.456708
 2255,'','82 Av & 83 St',53.517971,-113.453629
 2289,'','Ter Rd & 53 St',53.540647,-113.423634
 2329,'','83 St & 86 Av',53.522388,-113.454971
@@ -82,9 +80,7 @@
 2752,'','112 St & 82 Av',53.51852,-113.52066
 2816,'','82 Av & 71 St',53.517755,-113.437201
 2844,'','87 Av & 114 St',53.522774,-113.52829
-2845,'','82 Av & 105 St',53.518181,-113.500977
 2848,'','82 Av & 91 St',53.517963,-113.466827
-4000,'','Ordze Transit Ctr',53.513388,-113.330571
 4006,'','Sherwood Dr & Fir St',53.514342,-113.319868
 4030,'','Broadmoor Blvd & Mission Dr',53.534988,-113.319842
 4036,'','Broadmoor Blvd & Main Blvd',53.538344,-113.319881
@@ -95,12 +91,11 @@
 4617,'','Baseline Rd & 17 St',53.5408,-113.3682
 4805,'','Broadmoor Blvd & Kaska Rd',53.538954,-113.320302
 4913,'','Wye Rd & Ash St',53.511951,-113.313322
+4915,'','Wye Rd&Salisbury Way',53.511972,-113.3073
+4917,'','Wye Rd&Salisbury Way',53.511931,-113.3039
 4933,'','Salisbury Way & Wye Rd',53.5114,-113.308
-4934,'','Salisbury Wy & Salisbury Ln',53.5103,-113.3071
 4935,'','Salisbury Way & Rybury Ct',53.5098,-113.3061
-4936,'','Salisbury Wy & Rybury Ct',53.5095,-113.3032
 4937,'','Salibury Way & Tidsbury Str',53.5097,-113.3031
-4938,'','Salisbury Wy & Mitchell St',53.5113,-113.2998
 4939,'','Salisbury Way & Mitchell St',53.5107,-113.3002
 5005,'','Main Blvd & Mardale Cr',53.534174,-113.297044
 5011,'','Main Blvd & Millers Rd',53.536278,-113.303805
@@ -238,7 +233,6 @@
 7514,'','Summerland Dr & Suncrest Ln',53.55754,-113.258579
 7515,'','Summerland Dr & Sunview Dr',53.558252,-113.258418
 7516,'','Lakeland Dr & Summerwood Dr',53.555863,-113.263169
-7518,'','Lakeland Dr @ Clover Bar Rd',53.5565,-113.2744
 7520,'','Summerland Dr & Sandstone Blvd',53.560729,-113.257571
 7522,'','Summerland Dr & Suncreek Dr',53.560289,-113.25174
 7524,'','Summerland Dr & Sunview Gt',53.558583,-113.251901
@@ -275,7 +269,6 @@
 7921,'','Emerald Dr & ABJ',53.567599,-113.287668
 7922,'','Emerald Dr & Ebony Blvd',53.565929,-113.292147
 7923,'','Emerald Dr & Ebony Blvd',53.566563,-113.291198
-8000,'','Bethel Transit Terminal',53.5428,-113.3064
 8004,'','Baseline Rd & Broadview Dr',53.541389,-113.31595
 8005,'','Baseline Rd & Broadmoor Blvd',53.541028,-113.318455
 8006,'','Broadview Dr & Baseline Rd',53.541577,-113.313971
@@ -325,8 +318,6 @@
 8812,'','Strathmoor Dr',53.564494,-113.32625
 8814,'','Strathmoor Wy',53.562854,-113.324499
 8816,'','Streambank Av',53.560177,-113.325306
-8842,'','Sherwood Dr @ Emerald Dr',53.5638,-113.295
-8844,'','Sherwood Dr @ Amberley Wy',53.5619,-113.295
 8846,'','Sherwood Dr & Abbey Rd',53.560104,-113.295076
 8847,'','Sherwood Dr & Abbey Rd',53.559134,-113.295446
 8848,'','Sherwood Dr & Palisades Av',53.556327,-113.295266
