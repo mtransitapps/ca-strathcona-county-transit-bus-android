@@ -5,7 +5,7 @@ Strathcona County Transit buses for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from June 30, 2019 to November 30, 2019.
+Schedule from September 1, 2019 to November 30, 2019.
 ----------
 Full description:
 This app adds Strathcona County Transit buses information to MonTransit.
