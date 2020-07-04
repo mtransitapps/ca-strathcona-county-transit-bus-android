@@ -279,6 +279,9 @@
 8013,'','Broadview Rd & Broadmoor Blvd',53.544806,-113.318946
 8101,'','Bethel Dr & Broadview Rd',53.545182,-113.303946
 8105,'','Cranford Way',53.543298,-113.291823
+8106,'','Bethel Wy & Bethel Dr',53.546192,-113.302501
+8107,'','Bethel Dr & Bethel Wy',53.545836,-113.302143
+8108,'','Bethel Dr & Bethel Wy',53.545927,-113.302941
 8109,'','Bethel Dr & Bothwell Dr',53.546322,-113.299303
 8110,'','Bethel Dr & Bothwell Dr',53.546368,-113.299738
 8111,'','Sherwood Dr & Cranford Wy',53.543045,-113.295418
@@ -360,7 +363,7 @@
 9238,'','Foxhaven Dr & Foxhaven Cr',53.528475,-113.255432
 9239,'','Foxhaven Dr & Foxhaven Ct',53.528615,-113.259575
 9240,'','Foxhaven Dr & Foxhaven Pl',53.528635,-113.259082
-9352,'','\',53.512237,-113.274446
+9352,'','Wye Rd & Clover Bar Rd',53.512237,-113.274446
 9353,'','Clover Bar Rd & Wye Rd',53.513153,-113.270316
 9461,'','Wye Rd & Est Dr',53.511985,-113.288522
 11344,'','104 St & 104 Ave',53.546338,-113.49882
