@@ -1,15 +1,15 @@
 40101,0,'Downtown',401
 40100,0,'Ordze TC',401
-40301,0,'Gov Ctr',403
-40300,0,'Ordze TC',403
+40300,0,'Gov Ctr',403
+40301,0,'Ordze TC',403
 40400,0,'Ordze TC',404
 40401,0,'U of Alberta',404
-41100,0,'Bethel TT',411
-41101,0,'Downtown',411
+41101,0,'Bethel TT',411
+41100,0,'Downtown',411
 41300,0,'Bethel TT',413
 41301,0,'Gov Ctr / NAIT',413
-41400,0,'Bethel TT',414
-41401,0,'U of Alberta',414
+41401,0,'Bethel TT',414
+41400,0,'U Of Alberta',414
 42000,0,'Bethel TT',420
 42001,0,'Millennium Pl',420
 43000,0,'Bethel TT',430
@@ -22,16 +22,16 @@
 43301,0,'Davidson Crk',433
 44000,0,'Bethel TT',440
 44001,0,'Heritage Hls',440
-44100,0,'Bethel TT',441
-44101,0,'Ordze TC',441
+44101,0,'Bethel TT',441
+44100,0,'Ordze TC',441
 44200,0,'Bethel TT',442
 44201,0,'Nottingham',442
-44300,0,'Bethel TT',443
-44301,0,'Ordze TC',443
+44300,0,'Gln Allan',443
+44301,0,'Sherwood Hts',443
 45000,0,'Bethel TT',450
 45001,0,'Ctr in the Park',450
-45100,0,'Bethel TT',451
-45101,0,'Ordze TC',451
+45101,0,'Bethel TT',451
+45100,0,'Ordze TC',451
 49000,0,'Bethel TT',490
 49001,0,'Millennium Pl',490
 49100,0,'Bethel TT',491
@@ -42,7 +42,7 @@
 49301,0,'Brentwood',493
 49400,0,'Bethel TT',494
 49401,0,'Ordze TC',494
-1043301,0,'ABJ Sch',10433
-1043300,0,'Charlton Hts',10433
+1043300,0,'ABJ School',10433
+1043301,0,'Clarkdale Mdws',10433
 1044100,0,'Bethel TT',10441
 1044101,0,'Regency',10441
