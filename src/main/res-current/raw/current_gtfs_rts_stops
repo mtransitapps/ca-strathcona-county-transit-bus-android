@@ -198,7 +198,7 @@
 7205,'7205','Meadowview Dr & Greenbriar Cr',53.542871,-113.258285
 7211,'7211','Medowview Dr & Larkpur Pl',53.544503,-113.260113
 7229,'7229','Primrose Blvd & Clover Bar Rd',53.546294,-113.261736
-7272,'7272','Primrse Blvd & ClovrBr Rd',53.546114,-113.261494
+7272,'7272','Primrose Bl & Clover Bar Rd',53.546114,-113.261494
 7290,'7290','Medowview Dr & Larkspur Pl',53.544549,-113.260287
 7296,'7296','Medowview Dr & Greenbriar Cr',53.542679,-113.258728
 7306,'7306','Davenport Dr & Davenport Pl',53.552247,-113.258749
@@ -209,7 +209,7 @@
 7315,'7315','Clarkdale Dr & Crocus Cr',53.552033,-113.251863
 7317,'7317','Clarkdale Dr & Orchid Cr',53.548885,-113.252167
 7318,'7318','Meadowview Dr & Aster Cr',53.545355,-113.252999
-7319,'7319','MeadwviewDr & Clarkdle Dr',53.54764,-113.253365
+7319,'7319','Meadowview Dr & Clarkdale Dr',53.54764,-113.253365
 7321,'7321','Meadowview Dr & Aster Cr',53.545456,-113.252821
 7323,'7323','Meadowview Dr & Blueberry Cr',53.543715,-113.25258
 7324,'7324','Meadowview Dr & Blueberry Cr',53.543687,-113.252807
@@ -336,7 +336,7 @@
 9016,'9016','Nottingham Blvd & Nottingham Rd',53.522298,-113.279489
 9017,'9017','Nottingham Blvd & Norwich Cr',53.519038,-113.281105
 9023,'9023','Nottingham Blvd & Norland Cl',53.515972,-113.280042
-9025,'9025','Notinghm Blvd & NotinghmCv',53.514893,-113.275194
+9025,'9025','Nottingham Bl & Nottingham Wy',53.514893,-113.275194
 9029,'9029','Notingham Blvd & Clover Bar Rd',53.515886,-113.272367
 9048,'9048','Granada Blvd',53.527746,-113.278593
 9115,'9115','Ritchie Wy & Rainbow Cr',53.515952,-113.267922
