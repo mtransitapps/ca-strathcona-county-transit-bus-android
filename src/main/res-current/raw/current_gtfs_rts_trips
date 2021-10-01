@@ -1,32 +1,32 @@
-40100,0,'Downtown',401
-40300,0,'Gov Ctr',403
-40301,0,'Ordze TC',403
-40400,0,'U Of Alberta',404
-41101,0,'Bethel TT',411
-41100,0,'Downtown',411
-41301,0,'Bethel TT',413
-41300,0,'Gov Ctr / NAIT',413
+40100,0,'401 City Ctr Via Bonnie Doon MacEwan',401
+40300,0,'403 Gov''t Ctr',403
+40301,0,'403 Ordze',403
+40400,0,'404 U Of A Via Bonnie Doon',404
+41101,0,'411 Bethel',411
+41100,0,'411 City Ctr Via Capilano MacEwan',411
+41301,0,'413 Bethel',413
+41300,0,'413 Gov''t Ctr MacEwan NAIT',413
 41401,0,'Bethel TT',414
 41400,0,'U Of Alberta',414
-42000,0,'Millennium Pl',420
-43000,0,'Emerald Hls',430
-43100,0,'Emerald Hls',431
-43200,0,'Summerwood',432
-43300,0,'Clarkdale Mdws',433
-44000,0,'Heritage Hls',440
+42000,0,'420 Millennium Pl',420
+43000,0,'430 Emerald Hls',430
+43100,0,'431 Emerald Hls',431
+43200,0,'432 Summerwood',432
+43300,0,'433 Clarkdale Mdws',433
+44000,0,'440 Heritage Hls',440
 44101,0,'Bethel TT',441
 44100,0,'Ordze TC',441
-44200,0,'Nottingham',442
-44300,0,'Gln Allan',443
-44301,0,'Sherwood Hts',443
-45000,0,'Ctr In The Pk',450
+44200,0,'422 Nottingham',442
+44300,0,'443 Gln Allan',443
+44301,0,'443 Sherwood Hts',443
+45000,0,'450 Ctr In The Pk',450
 45101,0,'Bethel TT',451
 45100,0,'Ordze TC',451
-49000,0,'Millennium Pl',490
-49100,0,'Summerwood',491
-49200,0,'Regency',492
-49300,0,'Brentwood',493
-49400,0,'Woodbridge',494
-1043300,0,'ABJ S',10433
-1043301,0,'Clarkdale Mdws',10433
-1044101,0,'Regency',10441
+49000,0,'420 Millennium Pl',490
+49100,0,'491 Summerwood',491
+49200,0,'492 Regency',492
+49300,0,'493 Brentwood',493
+49400,0,'494 Woodbridge',494
+1043300,0,'433A ABJ',10433
+1043301,0,'433A Clarkdale Mdws',10433
+1044101,0,'441A Regency',10441
