@@ -130,6 +130,7 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 		case "411": return "6BC7B9";
 		case "413": return "0076BC";
 		case "414": return "F16278";
+		case "415": return "7D9ABE";
 		case "420": return "ED1C24";
 		case "430": return "2E3192";
 		case "431": return "FFF30C";
