@@ -154,6 +154,7 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 		case "493": return "61CACA";
 		case "494": return "E59A12";
 		case "495": return null; // TODO
+		case "600": return null; // TODO
 		case "HER": return null; // TODO
 		// @formatter:on
 		default:
@@ -224,7 +225,7 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 		return CleanUtils.cleanLabel(tripHeadsign);
 	}
 
-	private static final Pattern STARTS_WITH_S_ = Pattern.compile("((^)(S))", Pattern.CASE_INSENSITIVE);
+	private static final Pattern STARTS_WITH_S_ = Pattern.compile("((^)([FS]))", Pattern.CASE_INSENSITIVE);
 
 	@NotNull
 	@Override
@@ -255,7 +256,7 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 					return 1_900_000 + digits;
 				}
 			}
-			throw new MTLog.Fatal("Unexpected stop ID for %s!", gStop);
+			throw new MTLog.Fatal("Unexpected stop ID for %s!", gStop.toStringPlus(true));
 		}
 		return Integer.parseInt(stopId);
 	}
