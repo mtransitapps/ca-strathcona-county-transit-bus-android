@@ -34,11 +34,6 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -90,7 +85,7 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 		if (FeatureFlags.F_USE_GTFS_ID_HASH_INT) {
 			return super.getRouteShortName(gRoute);
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		return gRoute.getRouteId(); // used by GTFS-RT
 	}
 
@@ -222,16 +217,7 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.cleanBounds(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
-	}
-
-	private static final Pattern STARTS_WITH_S_ = Pattern.compile("((^)([FS]))", Pattern.CASE_INSENSITIVE);
-
-	@NotNull
-	@Override
-	public String cleanStopOriginalId(@NotNull String gStopId) {
-		gStopId = STARTS_WITH_S_.matcher(gStopId).replaceAll(EMPTY);
-		return gStopId;
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	@NotNull
@@ -241,19 +227,21 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.CLEAN_AND.matcher(gStopName).replaceAll(CleanUtils.CLEAN_AND_REPLACEMENT);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId = cleanStopOriginalId(gStop.getStopId());
 		if (!CharUtils.isDigitsOnly(stopId)) {
 			final Matcher matcher = DIGITS.matcher(stopId);
 			if (matcher.find()) {
 				final int digits = Integer.parseInt(matcher.group());
-				if (stopId.toLowerCase(Locale.ENGLISH).startsWith("s")) {
-					return 1_900_000 + digits;
+				if (stopId.toLowerCase(Locale.ENGLISH).startsWith("f")) {
+					return 10 * 100_000 + digits;
+				} else if (stopId.toLowerCase(Locale.ENGLISH).startsWith("s")) {
+					return 19 * 100_000 + digits;
 				}
 			}
 			throw new MTLog.Fatal("Unexpected stop ID for %s!", gStop.toStringPlus(true));
@@ -270,7 +258,7 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 			}
 			return super.getStopCode(gStop);
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		return gStop.getStopId(); // used by GTFS-RT
 	}
 }
