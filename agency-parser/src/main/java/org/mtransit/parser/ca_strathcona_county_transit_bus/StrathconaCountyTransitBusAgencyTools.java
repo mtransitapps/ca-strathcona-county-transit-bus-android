@@ -81,15 +81,6 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
-	public @NotNull String getRouteShortName(@NotNull GRoute gRoute) {
-		if (FeatureFlags.F_USE_GTFS_ID_HASH_INT) {
-			return super.getRouteShortName(gRoute);
-		}
-		//noinspection DiscouragedApi
-		return gRoute.getRouteId(); // used by GTFS-RT
-	}
-
-	@Override
 	public boolean defaultAgencyColorEnabled() {
 		return true;
 	}
@@ -252,13 +243,9 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String getStopCode(@NotNull GStop gStop) {
-		if (FeatureFlags.F_USE_GTFS_ID_HASH_INT) {
-			if ("0".equals(gStop.getStopCode())) {
-				return EMPTY;
-			}
-			return super.getStopCode(gStop);
+		if ("0".equals(gStop.getStopCode())) {
+			return EMPTY;
 		}
-		//noinspection DiscouragedApi
-		return gStop.getStopId(); // used by GTFS-RT
+		return super.getStopCode(gStop);
 	}
 }
