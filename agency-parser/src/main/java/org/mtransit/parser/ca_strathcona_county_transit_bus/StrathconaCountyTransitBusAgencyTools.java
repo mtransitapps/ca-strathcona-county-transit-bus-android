@@ -62,6 +62,11 @@ public class StrathconaCountyTransitBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^(DX|SA|SU|Blocking)-|-(SCT)-\\w+\\d{2}-\\d{7}$";
+	}
+
+	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
 	}
