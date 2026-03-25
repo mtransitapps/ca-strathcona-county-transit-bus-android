@@ -1,0 +1,10 @@
+{
+    "target_route_type_id": 3,
+    "agency_id": "4",
+    "agency_id_comment": "Strathcona County Transit",
+    "default_color": "559820",
+    "default_color_comment": "GREEN (from map PDF)",
+    "default_color_enabled": true,
+    "service_id_cleanup_regex": "^(DX|SA|SU|Blocking)-|-(SCT)-\\w+\\d{2}-\\d{7}$",
+    "default_strings_cleaner_enabled": true
+}

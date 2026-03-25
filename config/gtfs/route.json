@@ -1,0 +1,45 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "HER",
+            "route_id": "99001",
+            "route_comment": "Heritage Days Shuttle"
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "FFFFFF"
+    ],
+    "route_colors": [
+        {
+            "route_short_name": "415",
+            "color": "7D9ABE"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "trip_excludes": [
+        {
+            "trip_headsign_regex": "not in service",
+            "ignore_case": true
+        }
+    ],
+    "trip_headsign_cleaners": [
+        {
+            "regex": "express",
+            "ignore_case": true,
+            "is_word": true
+        },
+        {
+            "regex": "\\s*\\|\\s*$",
+            "comment": "ends with |"
+        },
+        {
+            "regex": "\\s*\\|\\s*",
+            "replacement": "|",
+            "comment": "save 2 characters"
+        }
+    ],
+    "use_stop_code_for_stop_id": true
+}
