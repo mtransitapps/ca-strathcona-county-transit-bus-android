@@ -1,36 +1,36 @@
-40100,0,'Downtown | Macewan',401
+40100,0,'Downtown|Macewan',401
 40101,0,'Ordze',401
 40300,0,'Gov''T Ctr',403
 40301,0,'Ordze',403
 40401,0,'Ordze',404
 40400,0,'U Of A',404
 41101,0,'Bethel',411
-41100,0,'Downtown | Macewan',411
+41100,0,'Downtown|Macewan',411
 41301,0,'Bethel',413
 41300,0,'Gov''T Ctr',413
-41401,0,'Bethel |',414
-41400,0,'U Of A |',414
+41401,0,'Bethel',414
+41400,0,'U Of A',414
 41501,0,'Bethel',415
 41500,0,'Nait',415
 42001,0,'Bethel TT',420
 42000,0,'Streambank Av',420
 43000,0,'Bethel Via Emerald Hls',430
-43100,0,'Bethel | Emerald Hls',431
+43100,0,'Bethel|Emerald Hls',431
 43201,0,'Bethel',432
-43200,0,'Bethel | Summerwood',432
+43200,0,'Bethel|Summerwood',432
 43301,0,'Bethel',433
-43300,0,'Bethel | Clarkdale Mdws',433
-44000,0,'Bethel | Heritage Hls',440
-44100,0,'Bethel | Regency | Ordze',441
-44101,0,'Ordze | Regency | Bethel',441
+43300,0,'Bethel|Clarkdale Mdws',433
+44000,0,'Bethel|Heritage Hls',440
+44100,0,'Bethel|Regency|Ordze',441
+44101,0,'Ordze|Regency|Bethel',441
 44201,0,'Bethel TT',442
 44200,0,'Granada Blvd & Forrest Dr',442
 44301,0,'Bethel Via Sherwood Pk Mall',443
-44300,0,'Bethel | Gln Allan | Ordze',443
+44300,0,'Bethel|Gln Allan|Ordze',443
 45001,0,'Bethel',450
-45000,0,'Bethel | Ctr In The Pk',450
+45000,0,'Bethel|Ctr In The Pk',450
 45101,0,'Bethel Via Mills Haven',451
-45100,0,'Bethel | Mills Haven | Ordze',451
+45100,0,'Bethel|Mills Haven|Ordze',451
 1043300,0,'AM',10433
 1043301,0,'PM',10433
 1044101,0,'441A School Special',10441

@@ -12,7 +12,7 @@
     "route_colors_ignored": [
         "FFFFFF"
     ],
-    "route_colors":[
+    "route_colors": [
         {
             "route_short_name": "415",
             "color": "7D9ABE"
@@ -30,6 +30,15 @@
             "regex": "express",
             "ignore_case": true,
             "is_word": true
+        },
+        {
+            "regex": "\\s*\\|\\s*$",
+            "comment": "ends with |"
+        },
+        {
+            "regex": "\\s*\\|\\s*",
+            "replacement": "|",
+            "comment": "save 2 characters"
         }
     ],
     "use_stop_code_for_stop_id": true
