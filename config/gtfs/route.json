@@ -25,20 +25,15 @@
             "ignore_case": true
         }
     ],
+    "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [
         {
-            "regex": "express",
-            "ignore_case": true,
-            "is_word": true
+            "regex": "((\\s*\\|\\s*)?express)$",
+            "ignore_case": true
         },
         {
-            "regex": "\\s*\\|\\s*$",
-            "comment": "ends with |"
-        },
-        {
-            "regex": "\\s*\\|\\s*",
-            "replacement": "|",
-            "comment": "save 2 characters"
+            "regex": "^([^\\|]+\\s*\\|\\s*)*",
+            "comment": "remove the 1st 'xxx |' which are not the end destination"
         }
     ],
     "use_stop_code_for_stop_id": true
